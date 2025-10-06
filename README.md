@@ -18,10 +18,20 @@ Here are some ideas to get you started:
 **kevinbelleville/kevinbelleville** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I'm currently working on **ML/AI projects**, **deep learning models**, **computer vision systems**, **NLP applications**, and **scientific computing algorithms** while completing my **MS in Computer Science**
-- 🌱 I'm currently learning **C++**, **Java**, **Go**, **PyTorch**, **TensorFlow**, **CUDA programming**, **distributed systems**, **MLOps**, **cloud ML (AWS/GCP/Azure)**, **reinforcement learning**, and **neural network architectures**
-- 👯 I'm looking to collaborate on **machine learning research**, **AI applications**, **open-source ML libraries**, **computer vision projects**, **natural language processing**, **algorithm optimization**, **scientific ML**, **data science pipelines**, and **model deployment**
-- 🤔 I'm looking for help with **production ML systems**, **scalable architecture design**, **advanced C++ patterns**, **GPU optimization**, and **distributed training frameworks**
-- 💬 Ask me about **Python development**, **physics simulations**, **numerical methods**, **calculus**, **linear algebra**, **teaching complex technical concepts**, **transitioning from academia to industry**, **ML engineering career paths**
-- 📫 How to reach me: [your contact info]
-- ⚡ Fun fact: **Physics BS + 5 years tutoring physics/calculus → now building intelligent systems | Bridging computational physics and AI**
+<!--
+**kevinbelleville/kevinbelleville** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+**Physics educator (5 years) → ML engineer in training**
+
+MS Computer Science student | Python developer | Physics BS | Transitioning from teaching physics to teaching machines
+
+**Currently seeking: Software Engineer | ML Engineer | Data Scientist | Research Engineer positions**
+
+- 🔭 Working on **ML/AI projects** - **deep learning**, **computer vision**, **NLP**, **scientific computing**
+- 🌱 Learning **C++, Java, Go** | **PyTorch, TensorFlow** | **Cloud ML** | **Reinforcement learning**
+- 👯 Looking to collaborate on **neural networks**, **computer vision**, **NLP**, **algorithm research**, **open-source ML**
+- 💬 Ask me about **Python**, **machine learning**, **physics**, **numerical methods**, **explaining complex ideas simply**
+- ⚡ Former tutor who debugged students' understanding → now debugging neural nets
+
+**Open to opportunities, collaborations, and conversations. Let's connect.**
